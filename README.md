@@ -27,7 +27,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PremanshKhandare/PremanshKhandare/output/snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/PremanshKhandare/PremanshKhandare/output/snake.svg"
 </p>
 
 ---
