@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PremanshKhandare&theme=tokyonight&hide_border=false&cache_seconds=1800
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PremanshKhandare&theme=tokyonight&hide_border=false
 />
 </p>
 
