@@ -27,11 +27,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PremanshKhandare/PremanshKhandare/output/snake.svg"/>
 </p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PremanshKhandare&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
